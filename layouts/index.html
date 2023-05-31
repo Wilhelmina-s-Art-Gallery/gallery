@@ -1,8 +1,16 @@
-{{ define "main" }} {{ with .Site.Params }} About Donald Jenkins Main
-description {{ .description | markdownify }} {{ partial
-"widgets/social-accounts.html" . }} Notable posts {{ range first 6 (where (where
-site.RegularPages "Type" "in" site.Params.mainSections) ".Params.notable" "="
-true) }} {{ partial "widgets/post-card.html" . }} {{ end }} What Donald Jenkins
-writes about Politics Tech Culture Literature Religion Sundry Personal {{ with
-site.GetPage "articles" }} {{ .Params.description | markdownify }} {{ end }}
-Brief CV {{ .about | markdownify }} {{ end }} {{ end }}
+{{ define "main" }} {{ with .Site.Params }}
+About Donald Jenkins
+Main description
+{{ .description | markdownify }}
+
+{{ partial "widgets/social-accounts.html" . }}
+Notable posts
+{{ range first 6 (where (where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.notable" "=" true) }} {{ partial "widgets/post-card.html" . }} {{ end }}
+What Donald Jenkins writes about
+Politics Tech Culture Literature Religion Sundry Personal
+{{ with site.GetPage "articles" }} {{ .Params.description | markdownify }} {{ end }}
+
+Brief CV
+{{ .about | markdownify }}
+
+{{ end }} {{ end }}
