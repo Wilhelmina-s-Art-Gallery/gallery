@@ -35,7 +35,7 @@ paginate = 50
   
   description = '.'
   seo_description = 'Donald Jenkins writes, among other matters, about politics. He co-founded Policymakr, an online think-tank. He lives in New York.'
-  footer_text = 'Hydra came into my life unexpectedly but very soon a deep-seated desire to contribute to the mythology of the artist surrounding the island took hold of me. Having DESTE up there on that hill showing giants like Koons, Kiki Smith and Kara Walker to mention just a few motivates me in that aspiration. With a lot of help and support from colleagues and friends old and new I’m delighted to say that WAG’s is kicking off with a serious program.'
+  footer_text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget nunc et velit suscipit porta sed nec libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie sodales risus ac ullamcorper. Proin rhoncus risus ut sem lacinia dignissim placerat eros consectetur.'
   street_address = 'Mandraki Beach Resort, Hydra, Greece, 18040'
   
   [sitemap]
