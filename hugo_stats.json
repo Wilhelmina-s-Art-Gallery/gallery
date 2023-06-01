@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "a",
+      "article",
       "body",
       "div",
       "footer",
@@ -26,6 +27,7 @@
       "ul"
     ],
     "classes": [
+      "archive",
       "button",
       "buttons",
       "column",

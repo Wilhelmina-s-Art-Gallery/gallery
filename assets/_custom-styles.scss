@@ -49,6 +49,24 @@ body,
   font-stretch: 72%;
 }
 
+main {
+  margin-top: $padding;
+  margin-bottom: $padding;
+}
+
+.post {
+  width: 98%;
+  margin-right: auto;
+  margin-left: auto;
+  // Sets container width to 70 characters | Source: https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max/
+}
+
+.archive {
+  width: 98%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .navbar,
 body {
   background-color: $pipi;
