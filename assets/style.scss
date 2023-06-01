@@ -1,2 +1,10 @@
-$primary: hsl(212, 40%, 49%);
+// Set local fonts
+@import "custom-fonts";
+
+// Set custom variables
+@import "custom-variables";
+
 @import "bulma/bulma.sass";
+
+@import "custom-dark-mode";
+@import "custom-styles";

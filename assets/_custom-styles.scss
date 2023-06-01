@@ -1,0 +1,63 @@
+html,
+body {
+  height: 100%;
+}
+
+body > footer {
+  position: sticky;
+  top: 100vh;
+}
+
+.icon,
+.small-icon {
+  vertical-align: -0.125em;
+}
+
+.icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.small-icon {
+  width: 1em;
+  height: 1em;
+}
+
+footer,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+figure,
+blockquote,
+source,
+table,
+.footnotes,
+.alert,
+.cards,
+.photos,
+.tags,
+ul {
+  margin: $padding 0 0;
+}
+
+body,
+.content {
+  font-family: $family-primary;
+  font-stretch: 72%;
+}
+
+.navbar,
+body {
+  background-color: $pipi;
+}
+
+.navbar-item {
+  font-weight: bold;
+}
+
+.footer-logo img {
+  padding: $padding;
+}
