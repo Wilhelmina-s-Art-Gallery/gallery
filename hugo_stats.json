@@ -31,9 +31,7 @@
       "column",
       "columns",
       "content",
-      "dark",
       "filter-white",
-      "footer",
       "has-background-dark",
       "has-dropdown",
       "has-text-light",
@@ -42,7 +40,6 @@
       "is-hoverable",
       "is-light",
       "is-primary",
-      "is-size-4",
       "is-size-5",
       "is-size-6",
       "navbar",
@@ -61,7 +58,6 @@
     "ids": [
       "footer",
       "footer-logo",
-      "home",
       "navbar",
       "navbarBasicExample",
       "toggle"

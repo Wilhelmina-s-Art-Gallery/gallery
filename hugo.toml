@@ -1,11 +1,11 @@
 baseURL = '/'
 languageCode = 'en-gb'
 timeZone = 'Europe/Athens'
-title = "Wilhelmina's Art Gallery"
-rssTitle = "Wilhelmina's Art Gallery"
+title = 'Wilhelmina&#8217;s Art Gallery'
+rssTitle = 'Wilhelmina&#8217;s Art Gallery'
 # Sets RSS feed title (for RSS readers)
 
-seoTitle = "Wilhelmina's Art Gallery"
+seoTitle = 'Wilhelmina&#8217;s Art Gallery'
 # Sets homepage <title> (for SEO)
 
 disableKinds = ["robotsTXT"]
@@ -24,19 +24,19 @@ paginate = 50
   expiryDate = ["expiryDate"]
 
 [params]
-  color = "#9c9a75"
+  color = '#9c9a75'
   # Sets theme colour& Safari mask icon colour
-  cloudflare_images = "https://www.donaldjenkins.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/"
-  assets_url = "https://assets.donaldjenkins.com/"
-  video_url = "https://customer-j00pa75eocpcmpyc.cloudflarestream.com/"
-  video_suffix = "/manifest/video.m3u8"
-  thumbnail_suffix = "/thumbnails/thumbnail.jpg?time="
-  assets_thumbnails = "https://assets.donaldjenkins.com/images/thumbnails/"
+  cloudflare_images = 'https://www.donaldjenkins.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/'
+  assets_url = 'https://assets.donaldjenkins.com/'
+  video_url = 'https://customer-j00pa75eocpcmpyc.cloudflarestream.com/'
+  video_suffix = '/manifest/video.m3u8'
+  thumbnail_suffix = '/thumbnails/thumbnail.jpg?time='
+  assets_thumbnails = 'https://assets.donaldjenkins.com/images/thumbnails/'
   
-  description = "."
-  seo_description = "Donald Jenkins writes, among other matters, about politics. He co-founded Policymakr, an online think-tank. He lives in New York."
-  footer_text = "Hydra came into my life unexpectedly but very soon a deep-seated desire to contribute to the mythology of the artist surrounding the island took hold of me. Having DESTE up there on that hill showing giants like Koons, Kiki Smith and Kara Walker to mention just a few motivates me in that aspiration. With a lot of help and support from colleagues and friends old and new I’m delighted to say that WAG’s is kicking off with a serious program."
-  street_address = "Mandraki Beach Resort, Hydra, Greece, 18040"
+  description = '.'
+  seo_description = 'Donald Jenkins writes, among other matters, about politics. He co-founded Policymakr, an online think-tank. He lives in New York.'
+  footer_text = 'Hydra came into my life unexpectedly but very soon a deep-seated desire to contribute to the mythology of the artist surrounding the island took hold of me. Having DESTE up there on that hill showing giants like Koons, Kiki Smith and Kara Walker to mention just a few motivates me in that aspiration. With a lot of help and support from colleagues and friends old and new I’m delighted to say that WAG’s is kicking off with a serious program.'
+  street_address = 'Mandraki Beach Resort, Hydra, Greece, 18040'
   
   [sitemap]
     changefreq = 'always'
