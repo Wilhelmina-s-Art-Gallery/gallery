@@ -1,29 +1,14 @@
-<div class="has-background-dark">
+<div>
   <div class="columns">
     <div id="footer-logo" class="column is-5">
       <img src="/images/system/logo.svg" />
     </div>
     <div class="column is-size-6 has-text-light">
       <p>{{ site.Params.footer_text | markdownify }}</p>
-      <ul class="is-size-5">
-        <li>
-          {{ partial "icons/location.html" . }}&thinsp;{{
-          site.Params.street_address | markdownify }}
-        </li>
-        <li>
-          {{ partial "icons/instagram.html" . }}&thinsp;<a
-            href="https://instagram.com/donaldjenkins_/"
-            title="Donald's Instagram account"
-            >Instagram</a
-          >
-        </li>
-        <li>
-          {{ partial "icons/facebook.html" . }}&thinsp;<a
-            href="https://www.facebook.com/donaldjenkins"
-            title="Donald's Facebook account"
-            >Facebook</a
-          >
-        </li>
+      <ul class="is-size-5 svg-list">
+        <li class="location">{{ site.Params.street_address | markdownify }}</li>
+        <li class="instagram"><a href="https://instagram.com/donaldjenkins_/" title="WAG's Instagram account">Instagram</a></li>
+        <li class="facebook" ><a href="https://www.facebook.com/donaldjenkins" title="Donald's Facebook account">Facebook</a></li>
       </ul>
     </div>
   </div>

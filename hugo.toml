@@ -1,8 +1,8 @@
 baseURL = '/'
 languageCode = 'en-gb'
 timeZone = 'Europe/Athens'
-title = 'Wilhelmina&#8217;s Art Gallery'
-rssTitle = 'Wilhelmina&#8217;s Art Gallery'
+title = "Wilhelmina's Art Gallery"
+rssTitle = "Wilhelmina's Art Gallery"
 # Sets RSS feed title (for RSS readers)
 
 seoTitle = 'Wilhelmina&#8217;s Art Gallery'
@@ -32,19 +32,19 @@ paginate = 50
   video_suffix = '/manifest/video.m3u8'
   thumbnail_suffix = '/thumbnails/thumbnail.jpg?time='
   assets_thumbnails = 'https://assets.donaldjenkins.com/images/thumbnails/'
-  
-  description = '.'
-  seo_description = 'Donald Jenkins writes, among other matters, about politics. He co-founded Policymakr, an online think-tank. He lives in New York.'
+
+  description = 'Wilhelmina’s Art Gallery exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams.'
+  seo_description = 'Wilhelmina’s Art Gallery exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams.'
   footer_text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget nunc et velit suscipit porta sed nec libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie sodales risus ac ullamcorper. Proin rhoncus risus ut sem lacinia dignissim placerat eros consectetur.'
   street_address = 'Mandraki Beach Resort, Hydra, Greece, 18040'
-  
+
   [sitemap]
     changefreq = 'always'
     filename = 'sitemap.xml'
     priority = 0.5
-      
+
   [build]
     writeStats = true
-    
+
   [markup.goldmark.renderer]
     unsafe = true # Allow HTML in md files

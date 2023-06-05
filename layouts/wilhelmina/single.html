@@ -1,0 +1,25 @@
+{{ define "main" }}
+<figure>
+  <img width="100%" srcset="
+      https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/25107dcf-c0bb-4f3e-749e-7ae734ab9900/w=320   320w,
+      https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/25107dcf-c0bb-4f3e-749e-7ae734ab9900/w=640   640w,
+      https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/25107dcf-c0bb-4f3e-749e-7ae734ab9900/w=960   960w,
+      https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/25107dcf-c0bb-4f3e-749e-7ae734ab9900/w=1280 1280w,
+      https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/25107dcf-c0bb-4f3e-749e-7ae734ab9900/w=1920 1920w
+
+    " src="https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/25107dcf-c0bb-4f3e-749e-7ae734ab9900/w=1280" alt="Atelier de Silvère Jarrosson, Vitry-sur-Seine, 2020" />
+  <figcaption class="caption subtitle is-size-7 has-text-grey-light is-pulled-right pr-1 is-hidden-mobile">Atelier de Silvère Jarrosson, Vitry-sur-Seine, 2020.</figcaption>
+</figure>
+<section class="container is-fluid">
+  <div class="tabs">
+    <ul>
+      <li><a href="/about">The Gallery</a></li>
+      <li class="is-active"><a>Wilhelmina von Blumenthal</a></li>
+    </ul>
+  </div>
+  <article>
+    <div class="has-text-weight-semibold">{{ .Params.Description }}</div>
+    {{ .Content }}
+  </article>
+</section>
+{{ end }}
