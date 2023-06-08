@@ -3,21 +3,35 @@
   
   
   <url>
-    <loc>//localhost:1313/wilhelmina/</loc>
+    <loc>/artists/</loc>
+    <lastmod>2023-06-05T04:59:40-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/artists/robert-bodem/</loc>
+    <lastmod>2023-06-05T05:02:20-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/wilhelmina/</loc>
     <lastmod>2023-04-06T15:37:00-06:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2023-06-01T04:04:13-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-06-05T04:08:03-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2023-04-06T15:37:00-06:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

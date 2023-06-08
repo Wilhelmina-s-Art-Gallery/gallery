@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artists at Wilhelmina&#39;s Art Gallery on Wilhelmina&#39;s Art Gallery</title>
+    <link>/artists/</link>
+    <description>Recent content in Artists at Wilhelmina&#39;s Art Gallery on Wilhelmina&#39;s Art Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Jul 2014 14:00:00 -0600</lastBuildDate><atom:link href="/artists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robert Bodem</title>
+      <link>/artists/robert-bodem/</link>
+      <pubDate>Tue, 01 Jul 2014 14:00:00 -0600</pubDate>
+      
+      <guid>/artists/robert-bodem/</guid>
+      <description>Bodem graduated cum laude from Boston University with a undergraduate degree in Sculpture (1995) and Master of Fine Arts (1998). Upon graduation, Bodem was awarded the prestigious Alert S. and Ester B. Kahn Award for his talent in figurative sculpture. This facilitated Bodem’s move to Florence, Italy where he founded the Florence Academy of Art’s sculpture program. Under his directorship, this rose to become one of the world’s premier programs to study naturalistic figurative sculpture and Bodem is recognised for nurturing a generation of highly prolific sculptors.</description>
+    </item>
+    
+  </channel>
+</rss>
