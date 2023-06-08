@@ -7,7 +7,7 @@ seoTitle: "Wilhelmina von Blumenthal"
 description: "Wilhelmina von Blumenthal read Modern Languages at Oxford and achieved a Distinction in her Masters on Renaissance Art at the Warburg Institute in London. She cut her teeth in the world of contemporary art at the Nosbaum Reding Gallery in Luxembourg where she learned the internal running of a gallery and was introduced to the world of art fairs."
 artists_exhibited:
   [
-    "André Butzer",
+    "[André Butzer](https://en.wikipedia.org/wiki/Andr%C3%A9_Butzer)",
     "Hisae Ikenaga",
     "Peter Zimmermann",
     "Freddy Tsimba",
@@ -30,7 +30,7 @@ artists_exhibited:
     "Bernard Venet",
     "Feipel & Bechameil",
     "Erwin Wurm",
-    "August Clüsserath",
+    "[August Clüsserath](https://www.nosbaumreding.com/en/artistes/expositions/115/august-clusserath)",
     "Michel Majerus",
     "Rafael Grassi-Hidalgo",
     "Thomas Arnolds",
