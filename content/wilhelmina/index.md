@@ -43,7 +43,7 @@ artists_exhibited:
     "[Katinka Bock](https://en.wikipedia.org/wiki/Katinka_Bock)",
     "[Michael Simpson](https://en.wikipedia.org/wiki/Michael_Simpson_(painter))",
     "[Eric Schumacher](https://www.ericschumacherartist.com/)",
-    "[Yvon Lambert](https://www.yvon-lambert.com/)",
+    "[Yvon Lambert](https://en.wikipedia.org/wiki/Yvon_Lambert_(photographer))",
   ]
 date: 2014-07-01T14:00:00-06:00
 showthedate: false
