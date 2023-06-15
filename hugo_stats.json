@@ -3,13 +3,16 @@
     "tags": [
       "a",
       "article",
+      "aside",
       "blockquote",
       "body",
+      "button",
       "div",
       "em",
       "figcaption",
       "figure",
       "footer",
+      "form",
       "h1",
       "h2",
       "head",
@@ -17,6 +20,7 @@
       "hr",
       "html",
       "img",
+      "input",
       "li",
       "link",
       "main",
@@ -27,6 +31,7 @@
       "section",
       "span",
       "strong",
+      "textarea",
       "title",
       "ul"
     ],
@@ -36,13 +41,20 @@
       "caption",
       "column",
       "columns",
+      "contact",
+      "contact-box",
+      "contact-form",
       "container",
       "content",
+      "content-box",
       "facebook",
       "has-background-light",
       "has-dropdown",
+      "has-text-centered",
       "has-text-grey-light",
+      "has-text-weight-bold",
       "has-text-weight-semibold",
+      "has-text-white",
       "instagram",
       "is-5",
       "is-7",
@@ -53,6 +65,8 @@
       "is-multiline",
       "is-primary",
       "is-pulled-right",
+      "is-rounded",
+      "is-size-2",
       "is-size-4-tablet",
       "is-size-5",
       "is-size-5-mobile",
@@ -80,10 +94,14 @@
       "tabs"
     ],
     "ids": [
+      "contact",
+      "feedback-from",
       "footer",
       "footer-logo",
       "navbar",
-      "navbarBasicExample"
+      "navbarBasicExample",
+      "send",
+      "success-message"
     ]
   }
 }
